@@ -1,0 +1,3 @@
+dan = Dan Langille <dan@langille.org>
+dvl = Dan Langille <dan@langille.org>
+(no author) = cvs2svn <cvs2svn@users.noreply.freshports.org>
